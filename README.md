@@ -1,6 +1,6 @@
 # Titanic Data Analysis and Visualization Project
 
-A comprehensive Jupyter notebook-based data analysis and visualization project exploring the Titanic dataset using Python data science libraries.
+A comprehensive Jupyter notebook-based data analysis and visualization project exploring the Titanic dataset using Python data science libraries, the dataset was downloaded from Kaggle.
 
 ## Overview
 
